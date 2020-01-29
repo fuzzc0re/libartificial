@@ -38,5 +38,5 @@ make
 
 ## License
 
-Copyright (c) 2020 [Fuzznets P.C](https://www.fuzznets.com) and [Dim Karoukis](https://www.dkaroukis.com). All rights reserved.
+Copyright (c) 2020 [Fuzznets P.C](https://www.fuzznets.com). All rights reserved.
 The software is distributed under the terms described in the [LICENCE](LICENCE) file.

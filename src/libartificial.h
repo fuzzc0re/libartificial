@@ -1,4 +1,4 @@
-/* Copyright (c) 2020 Fuzznets P.C. and Dim Karoukis. All rights reserved.
+/* Copyright (c) 2020 Fuzznets P.C. All rights reserved.
  * 
  * Licensed under the Affero General Public License, Version 3.0 (the "License");
  * you may not use this file except in compliance with the License.
