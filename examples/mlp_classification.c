@@ -19,8 +19,8 @@
 #include <math.h>
 #include <time.h>
 
-#include "../libartificial.h"
-#include "../libartificial_utils.h"
+#include "../src/libartificial.h"
+#include "../src/libartificial_utils.h"
 
 void model(const int *restrict rows,
            const int *restrict cols_Y,

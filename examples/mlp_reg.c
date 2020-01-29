@@ -20,8 +20,8 @@
 #include <assert.h>
 #include <time.h>
 
-#include "../libartificial.h"
-#include "../libartificial_utils.h"
+#include "../src/libartificial.h"
+#include "../src/libartificial_utils.h"
 
 // Manipulates X and Y
 void model(const int *restrict rows,
