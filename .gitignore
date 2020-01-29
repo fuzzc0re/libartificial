@@ -1,0 +1,10 @@
+examples/test1
+examples/test2
+examples/test3
+examples/test4
+examples/weights/*
+examples/logfile
+examples/.DS_Store
+logfile
+weights/*
+.DS_Store
