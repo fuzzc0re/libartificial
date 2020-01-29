@@ -8,7 +8,7 @@ Adam, AdaGrad etc. will be added soon. There are plans to extend it for CNNs, LS
 
 ## Prerequisites
 
-Works with gcc and clang.
+Works with gcc and clang on Linux and macOS.
 
 All functions and their examples should run through lldb, gdb and valgrind without any errors.
 
@@ -28,7 +28,7 @@ make test1
 make test2
 ```
 
-If you want to compile them all then just do
+If you want to compile them all then just run
 
 ```
 make
@@ -36,4 +36,4 @@ make
 
 ## License
 
-Copyright (c) 2020 [Fuzznets P.C](https://www.fuzznets.com) and [Dim Karoukis](https://www.dkaroukis.com). All rights reserved. The software is distributed under the terms of the [GNU General Public Licence version 3](https://www.gnu.org/licenses/gpl-3.0.html). For more info see the [LICENCE](/LICENCE) file.
+Copyright (c) 2020 [Fuzznets P.C](https://www.fuzznets.com) and [Dim Karoukis](https://www.dkaroukis.com). All rights reserved. The software is distributed under the terms described in the [LICENCE](LICENCE) file.
